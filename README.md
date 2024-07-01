@@ -1,1 +1,1 @@
-# Neural-Differential-Equations
+# Deep Differential Equations
